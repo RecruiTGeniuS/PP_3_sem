@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "dishes": {
+      "dish": [
+        {
+          "name": "salad",
+          "price": 7,
+          "ingredients": [ "tomato", "cucumber", "salad", "sour cream" ]
+        },
+        {
+          "name": "meatball",
+          "price": 3,
+          "ingredients": [ "meat", "salt", "pepper", "bread", "egg" ]
+        }
+      ]
+    },
+    "drinks": {
+      "drink": [
+        {
+          "name": "smoothie",
+          "price": 6,
+          "ingredients": [ "banana", "strawberry", "cream", "ice cream" ]
+        },
+        {
+          "name": "tea",
+          "price": 2,
+          "ingredients": [ "black tea", "orange", "mint", "sugar" ]
+        }
+      ]
+    }
+  }
+}
